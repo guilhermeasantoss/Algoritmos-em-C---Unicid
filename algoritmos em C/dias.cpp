@@ -27,8 +27,7 @@ int main(){
 		case 7:
 		printf("sabado");
 		default:
-		printf("Digite um numero valido");	
-		
+		printf("Digite um numero valido");		
 	}	
 	return 0; 
 }
